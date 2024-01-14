@@ -1,3 +1,11 @@
+## Fork
+
+This is a fork of https://github.com/jaydangar/chaquopy_flutter.
+
+It is a dependency for my other project https://github.com/heyzec/realtime-mahjong-trainer.
+
+The changes made are minor and taken from https://github.com/jaydangar/chaquopy_flutter/issues/47#issuecomment-1656936687.
+
 ## Chaquopy Flutter plugin
 
 This is an unofficial Chaquopy Flutter plugin to run Python code on Android. This is the simplest version, where you can write your code and run it.
